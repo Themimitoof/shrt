@@ -1,0 +1,6 @@
+.git
+
+.prettierrc.yml
+.gitignore
+config.js
+*.md
